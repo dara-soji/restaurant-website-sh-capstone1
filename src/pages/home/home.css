@@ -1,0 +1,13 @@
+.hero {
+    color: #fff; 
+    background:
+     linear-gradient(rgba(0, 0, 0, 0.5),
+                     rgba(0, 0, 0, 0.5)),
+    url(../../images/background-home.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 4em 2em;
+}
+.hero > h1 {
+    font-weight: 600;
+}
