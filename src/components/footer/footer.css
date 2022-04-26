@@ -1,0 +1,31 @@
+footer {
+  background-color:rgb(166, 41, 41);
+  color: #fff;
+  padding: 10px;
+}
+footer h1 {
+  margin: 0;
+  font-weight: 600;
+}
+footer p {
+  margin: 0;
+}
+ul.social {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+ul.social li {
+  margin-right: 20px;
+  font-size: 1.2em;
+}
+ul.site-map{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+}
+ul.site-map li a {
+  text-decoration: none;
+  color: #fff;
+}

@@ -1,0 +1,33 @@
+.navbar {
+    padding: 0.5em 1.5em;
+    box-shadow: 0 0 10px 2px #000;
+}
+.navbar span.navbar-brand {
+    font-size: 2em;
+    font-weight: 800;
+    color: rgb(166, 41, 41);
+}
+.navbar-collapse {
+    justify-content: flex-end;
+}
+.navbar-collapse ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+.navbar-collapse ul li a{
+    text-decoration: none;
+    color:rgb(166, 41, 41);
+    padding: 0.5rem 1rem;
+}
+.navbar-collapse ul li a:hover {
+    color: #000;
+}
+@media screen and (max-width: 576px){
+    .navbar-collapse ul {
+        flex-direction: column;
+        padding: 0;
+    }
+}
