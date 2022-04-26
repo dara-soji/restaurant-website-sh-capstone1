@@ -8,6 +8,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    position: relative;
     // background-blend-mode: darken;
 
     .header__menu, .header__heading, .header__buttons{
@@ -41,6 +42,9 @@
             letter-spacing: 0.1em;
             font-size: 0.8rem;
             cursor: pointer;
+            z-index: 20;
+
+            
 
         }
 
@@ -58,4 +62,16 @@
 
         }
     }
+}
+
+.header:after{
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    // border: 1px solid black;
+    background: linear-gradient(to bottom,rgba(0,0,0,0.3) 0%,rgba(0,0,0,0.15) 40%,rgba(0,0,0,0) 100%);
 }

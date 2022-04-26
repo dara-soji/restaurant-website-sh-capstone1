@@ -1,0 +1,48 @@
+.reserve{
+    width: 100%;
+    height: 90vh;
+    background: url('https://urbandine.templates.editmysite.com/uploads/8/9/5/0/89502725/background-images/535743800.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    padding-left: 10%;
+
+    .reserve__content-title{
+        margin: 30px 0;
+        color: var(--white-color);
+        text-align: left;
+    }
+    
+    .reserve__content-desc{
+        color: var(--white-color);
+
+    }
+
+    a{
+        text-decoration: none;
+
+        .reserve__buttons-reserve{
+            text-transform: uppercase;
+            padding: 0.8rem 1.8rem;
+            border: none;
+            background-color: var(--white-color);
+            letter-spacing: 0.1em;
+            font-size: 0.8rem;
+            cursor: pointer;
+            z-index: 20;
+
+            margin: 30px 0 15px;
+        }
+    }
+
+    .reserve__content-comment{
+        color: rgb(167, 167, 167);
+        font-style: italic;
+        opacity: 0.9;
+    }
+}
