@@ -9,11 +9,14 @@ const HeadChef = () => {
         </div>
 
         <div className="headchef__content">
-            <h4 className="headchef__content-headchef bold-text">Head Chef</h4>
+            <h4 className="headchef__content-headchef bold-text">About Us</h4>
 
-            <h3 className="headchef__content-name head-text">React Mentor</h3>
+            <h3 className="headchef__content-name head-text">TheGroupEightyThree</h3>
 
-            <p className="headchef__content-desc p-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, obcaecati! Dolores consequuntur perferendis eligendi suscipit voluptatum, impedit dolore illo non, odio, dolorem ipsa veniam reprehenderit?</p>
+            <p className="headchef__content-desc p-text">Since our modest beginning in 2018 with a little space in Cape Town South Africa, 
+                                                         Our development as TheGroupEightyThree has been enlivened with the energy to cook and serve solid, African cuisine. In contrast with other African eateries, TheGroupEightyThree was made 
+                                                         with explicit expectation to appear as something different. Our Menu highlights things that utilize the souns and fragrant flavors, however, forgets the stuffing ghee, spread, oil, and overwhelming cream. TheGroupEightyThree has developed to incorporate three superb takeout areas all over Africa with additional to come sooner rather than later. Our group takes 
+                                                         pride in the way that we can furnish our new and faithful clients with extraordinary tasting African-roused nourishment that is not normal for theat at some other African eatery you visit. </p>
         </div>
     </div>
   )
