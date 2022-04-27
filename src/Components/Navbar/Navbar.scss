@@ -33,10 +33,17 @@
             letter-spacing: 0.1em;
             font-size: 0.8rem;
             cursor: pointer;
+            text-decoration: none;
         }
         
     }
 
 
 
+}
+
+.app__links{
+    text-decoration: none;
+    color: inherit;
+   
 }

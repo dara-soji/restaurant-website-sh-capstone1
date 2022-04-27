@@ -1,0 +1,214 @@
+{
+    "main": [
+        {
+          "id": 1,
+          "name": "Primavera Salad",
+            "description": "arugula, cherry tomato, shaved almonds, shallot vinaigrette",
+            "price": 12
+        },
+        {
+          "id": 2,
+          "name": "Grilled Calamari",
+            "description": "tomato sauce, lemon",
+            "price": 13
+        },
+        {
+          "id": 3,
+          "name": "Mac and Cheese",
+            "description": "tomato sauce, lemon",
+            "price": 13
+        },
+        {
+          "id": 4,
+          "name": "Grilled Calamari",
+            "description": "cheddar, gruyere, gouda, truffle oil",
+            "price": 13
+        },
+        {
+          "id": 5,
+          "name": "Lobster Bolognese",
+            "description": "linguini, lobster tail, herbs in tomato & garlic broth",
+            "price": 28
+        },
+        {
+          "id": 6,
+          "name": "Salmon Steak",
+            "description": "quinoa, roasted carrots, mustard lemon glaze",
+            "price": 22
+        },
+        {
+          "id": 7,
+          "name": "Dry-Aged Rib-Eye",
+            "description": "grass-fed, with arugula salad, smashed potatoes",
+            "price": 36
+        },
+        {
+          "id": 8,
+          "name": "Braised Lamb",
+            "description": "jasmine rice pilaf, roasted almonds, sesame soy reduction",
+            "price": 28
+        }
+
+    ],
+    "snacks": [
+        {       
+          "id": 1,  
+          "name": "Burger",
+            "description": "gruyere, fried onions, special sauce on challah roll",
+            "price": 20
+        },
+        {       
+          "id": 2,  
+          "name": "Alpine",
+            "description": "fontina, gruyere, truffle oil on multigrain toast",
+            "price": 10
+        },        
+        {       
+          "id": 3,  
+          "name": "Raleigh",
+            "description": "coleslaw, barbecue sauce, pickles on sesame roll",
+            "price": 13
+        },        
+        {       
+          "id": 4,  
+          "name": "Milanese",
+            "description": "fried chicken, lettuce, tomato, mayo on focaccia",
+            "price": 13
+        },        
+        {       
+          "id": 5,  
+          "name": "Reuben",
+            "description": "pastrami, coleslaw, russian dressing on rye",
+            "price": 15
+        },        
+        {       
+          "id": 6,  
+          "name": "Flatiron",
+            "description": "steak, havarti, fried onions, chipotle mayo on challah",
+            "price": 15
+        },        
+        {       
+          "id": 7,  
+          "name": "Classic",
+            "description": "ham, unmelted cheddar, mayo on kaiser roll",
+            "price": 15
+        }
+    ],
+    "drinks": [
+        { 
+            "id": 1,          
+            "name": "Manhattan",
+            "description": "rye whisky, sweet vermouth, bitters",
+            "price": 9
+        },
+        {   
+          "id": 2,
+          "name": "Dark & Stormy",
+          "description": "black rum, ginger beer, lime",
+          "price": 11
+        },
+        { 
+          "id": 3,  
+          "name":    "Old Cuban",
+            "description":  "aged rum, lime juice, bitters, champagne",
+            "price": 11
+        },
+        { 
+          "id": 4,  
+          "name": "Negroni",
+            "description": "gin, vermouth rosso, campari",
+            "price": 11
+        },
+        {   
+          "id": 5,
+          "name":    "Bloody Mary",
+            "description":   "tomato juice, vodka, tabasco, bacon bits",
+            "price":   9
+        },
+        {             "id": 6,
+          "name":    "Green & Amber",
+            "description":   "vodka, single-malt scotch, honey, lemon, green tea",
+            "price":   12
+        },
+        {             "id": 7,
+          "name":    "White Russian",
+            "description":   "vodka, tia maria, heavy cream",
+            "price":  9
+        },
+        { 
+                      "id": 8,
+                      "name": "Sauvignon Blanc",
+            "description": "cloudy bay, new zealand, 2012",
+            "price": 18
+        },
+        {             "id": 9,
+          "name": "Pinot Grigio",
+            "description": "corte della torre, veneto, 2012",
+            "price": 13
+        },
+        {             "id": 10,
+          "name": "Chardonnay",
+            "description":  "gavilan, monterey, 2012",
+            "price": 13
+        },
+        {             "id": 11,
+          "name": "Pinot Noir",
+            "description": "heron, napa, 2011",
+            "price": 14
+        },
+        {             "id": 12,
+          "name": "Cabernet Sauvignon",
+            "description": "slingshot, napa, 2010",
+            "price": 12
+        },
+        { 
+          "id": 13,  
+          "name": "Pianrosso",
+            "description": "brunello di montacino, toscana, 2003",
+            "price":   22
+        },
+        {             "id": 14,
+          "name":  "Prosecco",
+            "description": "bortolotti, brut, veneto, 2010",
+            "price":  14
+        },    
+        {       
+                      "id": 15,
+                      "name": "Lagunitas",
+            "description": "ipa, california",
+            "price": 7
+        },
+        {       
+                      "id": 16,
+                      "name": "Breakside",
+            "description": "back in black ipa, san francisco",
+            "price": 8
+        },
+        {       
+                      "id": 17,
+                      "name": "Breakside",
+            "description": "wanderlust ipa, oregon",
+            "price": 8
+        },
+        {             "id": 18,
+          "name": "Hill Farmstead",
+            "description": "edward apa, vermont",
+            "price": 11
+        },
+        {             "id": 19,
+          "name": "Alchemist",
+            "description": "heady topper, vermont",
+            "price": 15
+        },
+        {             "id": 20,
+          "name": "Hofbräu",
+            "description": "dunkel, munich",
+            "price": 8
+        },
+        {             "id": 21,
+          "name":  "Delirium Tremens",
+            "description": "golden ale, belgium",
+            "price": 12
+        }
+    ]
+}
